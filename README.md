@@ -1,2 +1,2 @@
 # OOP
-Olio-ohjelmoinnin C++ -tehtävät
+Olio-ohjelmointi
